@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @efgo1
-- 👀 I’m interested in project Management 
+- 👀 I’m interested in project management 
 
 <!---
 efgo1/efgo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
